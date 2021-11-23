@@ -85,7 +85,7 @@ img{
 }
 
 a > img {
-  display: block;
+  display: unset;
 }
 
 figure{
