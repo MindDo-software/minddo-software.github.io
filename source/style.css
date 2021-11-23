@@ -156,7 +156,7 @@ li{
   color: #000;
   text-align: center;
   margin: 0rem 0.2rem;
-  padding: 2.5rem 0.8rem;
+  padding: 3rem 0.8rem;
   text-decoration: none;
   font-size: 0.7rem;
 }
@@ -168,7 +168,7 @@ li{
 }
 
 .topnav div > a > img {
-  height: 3.5rem;
+  height: 4rem;
 }
 
 /* Change the color of links on hover */
