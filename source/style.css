@@ -86,6 +86,7 @@ img{
 
 a > img {
   display: unset;
+  padding:1rem;
 }
 
 figure{
