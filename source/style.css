@@ -84,6 +84,11 @@ img{
   line-height: 0;
 }
 
+a {
+  font-weight: 500;
+  color:chocolate;
+}
+
 a > img {
   display: unset;
   padding:0.3rem;
